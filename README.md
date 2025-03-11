@@ -30,7 +30,7 @@ Antes de comenzar, asegúrate de haber cumplido con los siguientes requisitos:
 
 - Sistema operativo Windows
 
-- [.NET Framework](https://dotnet.microsoft.com/download/dotnet-framework) (versión 4.7.2 o posterior)
+- [.NET Framework](https://dotnet.microsoft.com/download/dotnet-framework) (versión 8.0.403 o posterior)
 
 - Visual Studio 2019 o posterior
 
